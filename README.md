@@ -1,6 +1,6 @@
-## ✨ Hallo World ✨
+##  Hallo World 😉
 
- ### 💻 Computer Science Student | 🦄 Aspired Software Engineer | 🇭🇰HK, 🇬🇧Ldn
+ ### 💻 Computer Science Student | 🦄 Aspired Software Engineer |🇭🇰HK, 🇬🇧Ldn | 🎺 📺 🀄 
 
 
 - 🔭 I’m currently working on Scala and Robotics
