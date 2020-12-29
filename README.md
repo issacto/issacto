@@ -1,11 +1,10 @@
 ##  Hallo World 😉
 
- ### 💻 CS Student | 🦄 Aspiring Software Engineer | 🇭🇰HK, 🇬🇧Ldn 
+ ### 💻 CS Student | 🦄 Aspiring Software Engineer | 🇭🇰HK, 🇬🇧LDN
 
 
-- 🔭 I’m currently working on Scala and Robotics
-- 🌱 I’m currently learning blockchain (Avalanche)
-- 👯 I’m looking to collaborate on building smart contracts
-- ⚡ Fun fact: 🎺 📺 🀄 
+- 🔭 Will start working on a full-stack project about 🎺 Brass instrument.
+<br>
+- Plase let me know if you want to joing the team
 
 
