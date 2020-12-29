@@ -4,7 +4,6 @@
 
 
 - 🔭 Will start working on a full-stack project about 🎺 Brass instrument.
-<br>
 - Plase let me know if you want to joing the team
 
 
