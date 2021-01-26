@@ -7,6 +7,6 @@
 - Plan to use React, Firebase, and Heroku
 - Plase let me know if you want to join the team
 
->> rerum cognoscere causas 
 
+https://tubasite.herokuapp.com
 
